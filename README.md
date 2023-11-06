@@ -21,4 +21,4 @@ npm start
 ```
 
 Here's a preview of the project:
-<img src="./client/public/img.png"/>
+<img src="https://res.cloudinary.com/dviz7ybmq/image/upload/v1699270317/nylu7gcftt3zb8yn18mw.png"/>
