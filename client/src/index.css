@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::-webkit-scrollbar {
+  width: 2px;
+}
+
+
+body {
+  background-color: #fefefe;
+}
+
+.meterial-gray {
+  background-color: #f8f9fc;
+}
+
+.shadow {
+  box-shadow: -10px -10px 30px 4px rgba(0, 0, 0, 0.1), 10px 10px 30px 4px rgba(45, 76, 255, 0.15);
+}
